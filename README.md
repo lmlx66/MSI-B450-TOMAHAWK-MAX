@@ -4,11 +4,11 @@
 
 macOS：Monterey 12.6.1
 
-OpenCore:0.8.6
+OpenCore:0.8.7
 
-OpenCoreconfigurtor：2.64.0.1
+OpenCoreconfigurtor：2.65.0.0
 
-该OC支持升级mac OS 13
+该OC支持升级mac OS 13**（请你注意，ax200驱动还并不支持mac os13）**
 
 
 

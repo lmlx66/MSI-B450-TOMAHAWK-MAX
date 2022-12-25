@@ -175,7 +175,7 @@
                     <key>BundlePath</key>
                     <string>WhateverGreen.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.1</string>
+                    <string>V1.6.2</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -211,7 +211,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.7.6 | Audio patches</string>
+                    <string>V1.7.7 | Audio patches</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -229,7 +229,7 @@
                     <key>BundlePath</key>
                     <string>IntelBluetoothFirmware.kext</string>
                     <key>Comment</key>
-                    <string>V2.2.0 | BT for Inter Firmware</string>
+                    <string>V2.2.0 | AX200 蓝牙驱动</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -247,7 +247,7 @@
                     <key>BundlePath</key>
                     <string>VoodooPS2Controller.kext</string>
                     <key>Comment</key>
-                    <string>V2.3.1 | PS2 控制器</string>
+                    <string>V2.3.2 | PS2 控制器</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -265,7 +265,7 @@
                     <key>BundlePath</key>
                     <string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext</string>
                     <key>Comment</key>
-                    <string>V2.3.1 | PS2 键盘</string>
+                    <string>V2.3.2 | PS2 键盘</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
